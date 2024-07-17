@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Coffe Website",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../Image gallery with Search box/images"
+		}
+	],
+	"settings": {}
+}
